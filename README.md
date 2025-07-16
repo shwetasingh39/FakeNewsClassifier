@@ -34,4 +34,4 @@ python fake_news_classifier.py
 Or use in a Jupyter notebook: FakeNewsClassifier.ipynb
 
 📈 Results
-Achieved ~92% accuracy using optimized alpha parameter for Naive Bayes and TF-IDF features. Stacked bar plots reveal class distributions across subjects and time, helping interpret model decisions.
+Achieved ~98.68% accuracy using optimized alpha parameter for Naive Bayes and TF-IDF features. Stacked bar plots reveal class distributions across subjects and time, helping interpret model decisions.
